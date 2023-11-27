@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=protyay140&label=Profile%20views&color=0e75b6&style=flat" alt="protyay140" /> </p>
 
-<! ---  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=protyay140" alt="protyay140" /></a> </p> --->
-
 - 🌱 I’m currently learning **Next.js and DevOps**
 
 - 💬 Ask me about **MERN**
